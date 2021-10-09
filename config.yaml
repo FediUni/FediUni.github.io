@@ -1,0 +1,15 @@
+baseURL: 'https://federateduniversity.lophi.dev/'
+title: 'Federated University'
+theme: 'book'
+
+enableGitInfo: true
+
+menu:
+  after:
+    - name: Github
+      url: "https://github.com/FederatedUniversity/FederatedUniversity.github.io"
+
+params:
+  BookTheme: "auto"
+  BookToC: true
+  BookRepo: "https://github.com/FederatedUniversity/FederatedUniversity.github.io"
