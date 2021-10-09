@@ -10,6 +10,5 @@ menu:
       url: "https://github.com/FederatedUniversity/FederatedUniversity.github.io"
 
 params:
-  BookTheme: "auto"
   BookToC: true
   BookRepo: "https://github.com/FederatedUniversity/FederatedUniversity.github.io"
